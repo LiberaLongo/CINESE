@@ -1,0 +1,16 @@
+# Numeri cinesi
+autore: @LLibera --> https://t.me/LLibera
+
+零一二三四五六七八九十百
+| carattere cinese| concetto | inglese| italiano| keyboard cinese| tono (colori di Pleco)|
+|-----------------|----------|--------|---------|----------------|-----------------------|
+|   ?             |     0    | zero   | zero    | Ling           | verde -->             |
+|   一             |     1    | one    | uno     | Yi             | rosso -->             |
+|   二             |     2    | two    | due     | Er             | viola -->             |
+|   三             |     3    | three  | tre     | San            | rosso -->             |
+|   四             |     4    | four   | quattro | Si             | viola -->             |
+|   五             |     5    | five   | cinque  | Wu             | blu -->               |
+|   六             |     6    | six    | sei     | Liu            | viola -->             |
+|   七             |     7    | seven  | sette   | Qi             | rosso -->             |
+|   八             |     8    | eight  | otto    | Ba             | rosso -->             |
+|   九             |     9    | nine   | nove    | Jiu            | blu -->               |
