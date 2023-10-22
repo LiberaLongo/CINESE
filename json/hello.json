@@ -1,0 +1,10 @@
+{
+	"hello" : {
+		 "english" : "hello",
+		 "italian" : "ciao",
+		 "chinese" : {
+				"pinyin" : "nǐhǎo",
+				"character" : "你好"
+		 }
+	 }
+}
